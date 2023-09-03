@@ -23,7 +23,7 @@
 
         layer_1 {
             bindings = <
-                &kp ESC   &kp N1   &kp N2   &kp N3   &kp N4   &kp N5           &kp N6   &kp N7   &kp N8   &kp N9   &kp N0   &DEL  
+                &kp ESC   &kp N1   &kp N2   &kp N3   &kp N4   &kp N5           &kp N6   &kp N7   &kp N8   &kp N9   &kp N0   &kp DEL  
                 &none      &none   &none   &none   &none   &none                &none   &kp SEMI   &kp APOS   &kp NUHS    &none   
                 &none        &kp NUBS   &none   &none   &none   &none   &none     &none   &kp MINUS   &kp EQUAL   &kp LBKT   &kp RBKT   &kp SLASH   
                 &none   &none   &none   &none                                   &none   &none   &none   &none   
@@ -32,7 +32,7 @@
 
          layer_2 {
             bindings = <
-                &kp ESC   &kp EXCL   &kp DQT   &kp N3   &kp DLLR   &kp PRCNT           &kp CARET   &kp AMPS   &kp ASTRK   &kp LPAR   &kp RPAR   &DEL   
+                &kp ESC   &kp EXCL   &kp DQT   &kp N3   &kp DLLR   &kp PRCNT           &kp CARET   &kp AMPS   &kp ASTRK   &kp LPAR   &kp RPAR   &kp DEL   
                 &none      &none   &none   &none   &none   &none                &none   &kp SEMI   &kp APOS   &kp NUHS    &none   
                 &none        &kp NUBS   &none   &none   &none   &none   &none     &none   &kp MINUS   &kp EQUAL   &kp LBKT   &kp RBKT   &kp SLASH   
                 &none   &none   &none   &none                                   &none   &none   &none   &none   
