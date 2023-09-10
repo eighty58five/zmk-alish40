@@ -67,4 +67,3 @@ nice_view_spi: &spi0 {
     cs-gpios = <&gpio1 1 GPIO_ACTIVE_HIGH>;
 };
 };      
-};
