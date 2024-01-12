@@ -12,6 +12,5 @@
 #     shield: reviung41
 #
 ---
-include:
 - west build -p -b nice_nano_v2 -- -DSHIELD="alish40"
 + west build -p -b nice_nano_v2 -- -DSHIELD="alish40 nice_view"
